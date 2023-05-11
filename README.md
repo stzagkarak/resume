@@ -1,2 +1,2 @@
-# resume
-Repo holds the latest version of my resume. 
+### Spiridon Tzagkarakis - stzagkarak 
+Repo that holds the latest version of my resume. ( 11-05-23 stzagkarak )
